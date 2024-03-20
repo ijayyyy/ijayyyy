@@ -10,7 +10,7 @@ I'm a Software Engineer, Content Creator, and Community Engineer who currently w
 - 🌱 I’m well skilled in HTML, CSS, JavaScript, React, Vue and Typescript.
 - 😊 I’m looking for help with open source projects and software engineering roles.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer.
-- 📫 You can [view my resume](#) and contact me by emailing adatimo01@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing ijeomanwankpu@gmail.com.
 
 
 
